@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JonesSpencer_CE05</string>
+    <string name="title_text">Collection Views</string>
+    <string name="character_name">Name</string>
+    <string name="character_first_appearance">First Appearance</string>
+    <string name="character_issues">Issues</string>
+    <string name="name">Name</string>
+    <string name="first_appearance">First Appearance</string>
+    <string name="issues">Issues</string>
+    <string name="description">Description</string>
+    <string name="collection_views">Collection Views</string>
+</resources>
