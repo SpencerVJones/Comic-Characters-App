@@ -1,4 +1,11 @@
 # Comic-Characters-App
+<div align="left">
+
+![Repository Views](https://komarev.com/ghpvc/?username=SpencerVJones&repo=Comic-Characters-App&color=blue&style=flat)
+
+</div>
+
+
 This is an Android application that displays a list of comic characters and their details. Users can view the characters either in a list or through a spinner, and see detailed information about each character.
 
 ## Features
